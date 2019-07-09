@@ -1,4 +1,4 @@
-FROM openjdk:8u181-jdk-alpine
+FROM 100.95.181.176:5300/xuyang-cpe/testjava:v1.0.2
 
 WORKDIR /home/apps/
 
