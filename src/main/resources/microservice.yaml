@@ -1,4 +1,4 @@
-APPLICATION_ID: springmvc
+APPLICATION_ID: springmvc-patch1-tag
 service_description:
   name: testjava
   version: 0.0.1
